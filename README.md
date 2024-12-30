@@ -1,4 +1,4 @@
-#**Hello World! - Data Science Bootcamp**
+# **Hello World! - Data Science Bootcamp**
 This repository was created with simple program that prints the classic "Hello World!" message and than any other messagesm like "Git is Awesome!". 
 Also this repository was created to educate related to the basic *workflow of using Git and GitHub* for version control and collaboration.
 
