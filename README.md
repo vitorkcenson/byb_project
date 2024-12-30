@@ -27,5 +27,7 @@ This is a very basic example, but it demonstrates fundamental concepts like:
 *Functions: Reusable blocks of code that perform specific tasks.*
 
 *Code:*
+
 message = "Git is Awesome!"
+
 print(message)
